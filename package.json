@@ -1,0 +1,17 @@
+{
+  "name": "lazy-games",
+  "version": "1.0.0",
+  "description": "this is an app for gaming",
+  "main": "index.js",
+  "scripts": {
+    "dev": "supervisor -e js,css,hbs src/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Salkas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "path": "^0.12.7"
+  }
+}

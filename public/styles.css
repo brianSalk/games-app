@@ -1,0 +1,39 @@
+html {
+    font-size: 16px;
+}
+body {
+    background-color: beige;
+}
+.page-title {
+    color: #333333;
+    font-family: consolas;
+}
+.main-header {
+    text-align: center;
+    color: khaki;
+    background-color: green;
+    border: 10px solid blueviolet;
+    font-family: cursive;
+}
+a:link {
+    color: blue;
+    padding: 14px 10px;
+    text-decoration: none;
+}
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    color: green;
+    font-size: 1.5em;
+    text-decoration: none;
+    font-family: consolas;
+}
+.links {
+    font-size: 20;
+}
+.game-links {
+    text-align: left;
+    font-size: 2em;
+}
